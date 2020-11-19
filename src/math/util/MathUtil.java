@@ -27,6 +27,7 @@ public class MathUtil {
          //expected:1    actual:1 ok
          //e: nem ve ngoai le IllegalArgumentException neu giai thua -5
          System.out.println("-5!:"+fu.util.MathUtility.getFactorial(-5));
+         System.out.println("CI for todays");
     }
     
 }
