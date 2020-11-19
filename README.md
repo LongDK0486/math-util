@@ -14,3 +14,4 @@ basic math methods e.g. getFactorial(), sqrt() aka Math class in JDK
 [Instagram](https://www.instagram.com/zerovn0486)
 
 ### © 2020 by LongDK
+
