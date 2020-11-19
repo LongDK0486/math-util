@@ -31,7 +31,9 @@ public class MathUtilityTest {
         assertEquals(24, fu.util.MathUtility.getFactorial(4));
         assertEquals(6, fu.util.MathUtility.getFactorial(3));
         assertEquals(1, fu.util.MathUtility.getFactorial(0));
-        assertEquals(10, fu.util.MathUtility.getFactorial(1));
+        assertEquals(1, fu.util.MathUtility.getFactorial(1));
+        assertEquals(6, fu.util.MathUtility.getFactorial(3));
+        //t muon thay xanh tren Git ,ko xem o day
     }
 }
 //mac ding code test doc lap voi code chinh doc lap voi qua tring clean and build 
