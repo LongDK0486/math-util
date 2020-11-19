@@ -33,10 +33,9 @@ public class MathUtility {
         return n* getFactorial(n-1);//de quy do em
                                     //goi lai chinh minh voi quy mo nho hon
                                     //5! =5 *4!
-                                    //4! =5 *4!
-                                    //3! =5 *4!
-                                    //2! =5 *4!
-                                    //1! =5 *4!
-                                    //n! =5 *4!
+                                    //4! =4 *3!
+                                    //3! =3 *2!
+                                    //2! =2 *1!
+                                    //n! =n *(n-1)!
     }
 }
